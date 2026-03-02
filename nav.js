@@ -25,7 +25,7 @@ let navbar = `
             <span data-i18n="projects-gerassic-organ-years"></span>
         </li>
         <li>
-            <a href="/projects/parla-speaker/parla.html" data-i18n="projects-parla">
+            <a href="/projects/parla-speaker" data-i18n="projects-parla">
             </a>
             <span data-i18n="projects-parla-years"></span>
         </li>
