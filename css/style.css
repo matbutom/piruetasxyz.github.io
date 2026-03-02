@@ -3,6 +3,9 @@
   align-items: stretch;
 }
 
+.lang-en .es { display: none; }
+.lang-es .en { display: none; }
+
 div {
   margin: 10px;
 }
